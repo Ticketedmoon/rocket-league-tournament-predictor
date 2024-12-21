@@ -1,0 +1,22 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "files.autoSave": "afterDelay",
+    "clangd.detectExtensionConflicts": false,
+    "cmake.configureOnOpen": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 11,
+    "vim.handleKeys": {
+        "<C-p>": false,
+        "<C-f>": false,
+        "<C-w>": false,
+        "<C-a>": false,
+        "<C-k>": false,
+        "<C-i>": false,
+        "<C-c>": false,
+        "<C-v>": false
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.organizeImports": "always"
+    }
+}
