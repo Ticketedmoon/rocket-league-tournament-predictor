@@ -1,0 +1,6 @@
+@rocketLeagueTournamentPredictor.Server_HostAddress = http://localhost:5049
+
+GET {{rocketLeagueTournamentPredictor.Server_HostAddress}}/player/
+Accept: application/json
+
+###

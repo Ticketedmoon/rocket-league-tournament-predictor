@@ -1,0 +1,190 @@
+[
+	{
+		"id": 1,
+		"name": "M0nkey M00n",
+		"tournament_placements": [
+			{
+				"name": "FIFAe World Cup 2024",
+				"tournament_tier": 2.5,
+				"placement": 2
+			},
+			{
+				"name": "RLCS 2024 - World Championship",
+				"tournament_tier": 1,
+				"placement": 1
+			},
+			{
+				"name": "RLCS 2024 - Major 2: London",
+				"tournament_tier": 2,
+				"placement": 6.5
+			},
+			{
+				"name": "RLCS 2024 - Major 1: Copenhagen",
+				"tournament_tier": 2,
+				"placement": 6.5
+			},
+			{
+				"name": "Esports World Cup",
+				"tournament_tier": 3,
+				"placement": 1
+			},
+			{
+				"name": "Gamers8 2023",
+				"tournament_tier": 5,
+				"placement": 3.5
+			},
+			{
+				"name": "RLCS 2022-2023 - World Championship",
+				"tournament_tier": 1,
+				"placement": 2
+			},
+			{
+				"name": "RLCS 2022-2023 - Spring Major",
+				"tournament_tier": 2,
+				"placement": 2
+			},
+			{
+				"name": "RLCS 2021-2022 - World Championship",
+				"tournament_tier": 1,
+				"placement": 1
+			},
+			{
+				"name": "RLCS 2021-2022 - Spring Major",
+				"tournament_tier": 2,
+				"placement": 14.5
+			},
+			{
+				"name": "RLCS 2021-2022 - Winter Major",
+				"tournament_tier": 2,
+				"placement": 7.5
+			},
+			{
+				"name": "RLCS 2021-2022 - Fall Major",
+				"tournament_tier": 2,
+				"placement": 1
+			},
+			{
+				"name": "RLCS Season X - European Championship",
+				"tournament_tier": 3,
+				"placement": 2
+			},
+			{
+				"name": "RLCS Season X - Winter: EU Major",
+				"tournament_tier": 4,
+				"placement": 1
+			},
+			{
+				"name": "RLCS Season X - Fall: EU Major",
+				"tournament_tier": 4,
+				"placement": 1
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Zen",
+		"tournament_placements": [
+			{
+				"name": "FIFAe World Cup 2024",
+				"tournament_tier": 2.5,
+				"placement": 2
+			},
+			{
+				"name": "RLCS 2024 - World Championship",
+				"tournament_tier": 1,
+				"placement": 10
+			},
+			{
+				"name": "RLCS 2024 - Major 2: London",
+				"tournament_tier": 2,
+				"placement": 6.5
+			},
+			{
+				"name": "RLCS 2024 - Major 1: Copenhagen",
+				"tournament_tier": 2,
+				"placement": 3.5
+			},
+			{
+				"name": "Esports World Cup",
+				"tournament_tier": 3,
+				"placement": 6.5
+			},
+			{
+				"name": "Gamers8 2023",
+				"tournament_tier": 5,
+				"placement": 6.5
+			},
+			{
+				"name": "RLCS 2022-2023 - World Championship",
+				"tournament_tier": 1,
+				"placement": 1
+			},
+			{
+				"name": "RLCS 2022-2023 - Spring Major",
+				"tournament_tier": 2,
+				"placement": 1
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Rise",
+		"tournament_placements": [
+			{
+				"name": "FIFAe World Cup 2024",
+				"tournament_tier": 2.5,
+				"placement": 9.5
+			},
+			{
+				"name": "RLCS 2024 - World Championship",
+				"tournament_tier": 1,
+				"placement": 3.5
+			},
+			{
+				"name": "RLCS 2024 - Major 1: Copenhagen",
+				"tournament_tier": 2,
+				"placement": 3.5
+			},
+			{
+				"name": "Gamers8 2023",
+				"tournament_tier": 5,
+	 			"placement": 3.5
+			},
+			{
+				"name": "RLCS 2022-2023 - World Championship",
+				"tournament_tier": 1,
+				"placement": 2
+			},
+			{
+				"name": "RLCS 2022-2023 - Spring Major",
+				"tournament_tier": 2,
+				"placement": 2
+			},
+			{
+				"name": "RLCS 2022-2023 - Winter Major",
+				"tournament_tier": 2,
+				"placement": 10.5
+			},
+			{
+				"name": "RLCS 2022-2023 - Fall Major",
+				"tournament_tier": 2,
+				"placement": 2
+			},
+			{
+				"name": "RLCS 2021-2022 - World Championship",
+				"tournament_tier": 1,
+				"placement": 6.5
+			},
+			{
+				"name": "RLCS 2021-2022 - Spring Major",
+				"tournament_tier": 2,
+				"placement": 1
+			},
+			{
+				"name": "RLCS 2021-2022 - Winter Major",
+				"tournament_tier": 2,
+				"placement": 2
+			}
+		]
+	}
+]
